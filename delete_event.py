@@ -1,4 +1,4 @@
-from google_calendar import *
+from src.google_calendar import *
 import time
 
 '''Delete the events with key words from the default calendar.'''

@@ -3,7 +3,7 @@ import datetime
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
-from workspace_authentication import authenticate
+from src.workspace_authentication import authenticate
 
 class GoogleCalendar():
   """A class to manage events in Google Calendar."""

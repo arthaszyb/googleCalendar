@@ -1,7 +1,7 @@
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
-from workspace_authentication import authenticate
+from src.workspace_authentication import authenticate
 
 def get_events(SCOPES_sheets, spreadsheet_id, sheet_tab_name):
   """Reads event list from the Google Sheet."""
