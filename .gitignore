@@ -1,0 +1,31 @@
+# Ignore virtual environment directory
+.venv/
+bin/
+__*/
+include/
+lib/
+pyvenv.cfg
+
+# Ignore log files
+logs/*
+
+# Ignore temporary data directory
+data/*
+
+# Ignore IDE generated configuration files
+*.idea/
+
+# Ignore test data
+test/data/*
+
+# Ignore test reports
+test/reports/*
+
+# Ignore compiled files
+bin/*
+
+# Ignore the secret files
+.credentials.json
+
+# Ignore the token cache file
+token.json
