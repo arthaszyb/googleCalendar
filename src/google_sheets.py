@@ -22,3 +22,4 @@ def get_events(SCOPES_sheets, spreadsheet_id, sheet_tab_name):
     return events
   except HttpError as err:
       return(err)
+  

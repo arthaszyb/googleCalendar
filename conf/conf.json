@@ -1,0 +1,13 @@
+{
+    "calendar_conf":{
+        "calendar_access": "https://www.googleapis.com/auth/calendar",
+        "owis_calendarID": "19db23ca8f2295012d317da4655addab23043198bb826bb5155b94874c5a5997@group.calendar.google.com",
+        "default_calendarID": "private"
+    },  
+    "sheet_conf":{
+        "sheets_access": "https://www.googleapis.com/auth/spreadsheets",
+        "sheet_ID": "1Ra359sb8kxVymyUiAYS1RyM23LzcoIux2JLVe5sRnI4",
+        "sheet_name": "2024-2025"
+    }
+    
+}
